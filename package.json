@@ -1,0 +1,24 @@
+{
+  "name": "express-routing-exercises-",
+  "version": "1.0.0",
+  "description": "An application that performs three statistical operations given an arbitrary amount of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horaciom61019/Express-Routing-Exercises.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "route"
+  ],
+  "author": "Horacio Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horaciom61019/Express-Routing-Exercises/issues"
+  },
+  "homepage": "https://github.com/horaciom61019/Express-Routing-Exercises#readme"
+}
